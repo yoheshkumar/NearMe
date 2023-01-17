@@ -174,17 +174,17 @@ After enjoying Sattanathaswamy Temple, visit this restaurant that is not far aw
 ```
 
 ## Output:
-![output](./screenshots/out1.png)
+![Output](./screenshots/out1.png)
 
-![output](./screenshots/out2.png)
+![Output](./screenshots/out2.png)
 
-![output](./screenshots/out3.png)
+![Output](./screenshots/out3.png)
 
-![output](./screenshots/out4.png)
+![Output](./screenshots/out4.png)
 
-![output](./screenshots/out5.png)
+![Output](./screenshots/out5.png)
 
-![output](./screenshots/out6.png)
+![Output](./screenshots/out6.png)
 
 ## HTML validator:
 
